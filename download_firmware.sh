@@ -19,8 +19,8 @@ fi
 
 # Step 2: Download MIUI Firmware
 
-FIRMWARE_URL="https://cdnorg.d.miui.com/OS2.0.211.0.VMRMIXM/marble_global_images_OS2.0.211.0.VMRMIXM_20251105.0000.00_15.0_global_c38fc90076.tgz"
-FIRMWARE_FILE="marble_global_images_OS2.0.211.0.VMRMIXM_20251105.0000.00_15.0_global_c38fc90076.tgz"
+FIRMWARE_URL="https://cdnorg.d.miui.com/OS2.0.216.0.VMRMIXM/marble_global_images_OS2.0.216.0.VMRMIXM_20251230.0000.00_15.0_global_1136c80b8d.tgz"
+FIRMWARE_FILE="marble_global_images_OS2.0.216.0.VMRMIXM_20251230.0000.00_15.0_global_1136c80b8d.tgz"
 
 echo "Downloading MIUI firmware..."
 if [ -f "$FIRMWARE_FILE" ]; then
