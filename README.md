@@ -21,7 +21,7 @@ The `workplace` repository contains a set of scripts for setting up tools, downl
 To clone the `workplace` repository, use the following command:
 
 ```bash
-git clone https://github.com/poco-f6-peridot/workplace.git -b peridot-15 workplace
+git clone https://github.com/ShadeDark6/workplace.git -b marble workplace
 
 ```
 
